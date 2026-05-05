@@ -7,7 +7,7 @@ A hybrid search and RAG-powered book recommendation system built on top of a 962
 ---
 
 ## Demo
-
+https://www.loom.com/share/ab5474e9d6a84b83bea93a62c1094842
 [![Library RAG Demo](https://cdn.loom.com/sessions/thumbnails/ab5474e9d6a84b83bea93a62c1094842-with-play.gif)](https://www.loom.com/share/ab5474e9d6a84b83bea93a62c1094842)
 
 ---
