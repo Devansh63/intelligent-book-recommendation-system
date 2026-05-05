@@ -1,0 +1,19 @@
+# --- Core API ---
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+
+# --- Database ---
+psycopg2-binary>=2.9.11
+
+# --- Embeddings (via HuggingFace Inference API — no local model) ---
+
+# --- LLM APIs ---
+# openai<1.109 + httpx>=0.28 breaks Groq client (proxies kwarg removed from httpx.Client).
+openai>=1.109.0
+httpx>=0.28.1
+
+# --- Utilities ---
+python-dotenv>=1.2.2
+pydantic>=2.12.5
+tqdm>=4.67.3
+gdown>=5.2.1
