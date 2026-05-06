@@ -11,9 +11,10 @@ A hybrid search and RAG-powered book recommendation system built on 962K books a
 ## Demo
 
 [![Library RAG Demo](https://cdn.loom.com/sessions/thumbnails/ab5474e9d6a84b83bea93a62c1094842-with-play.gif)](https://www.loom.com/share/ab5474e9d6a84b83bea93a62c1094842)
+https://www.loom.com/share/ab5474e9d6a84b83bea93a62c1094842
 
 **Live deployment:** [library-rag-ingest.onrender.com](https://library-rag-ingest.onrender.com)
-
+(Please Note: Due to the site being hosted on the free version of Render, it can take up to 2 minutes for the site to load for first time users)
 ---
 
 ## Motivation
